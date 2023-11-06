@@ -24,7 +24,7 @@ public class mySimilarCountries implements ISimilarCountries{
 					continue;
 				}
 				
-				//iterate through 
+				//find # of same values in entry1 and entry2 and add it to sameFood
 				
 				if(highestSimilar < sameFood) {
 					highestSimilar = sameFood;
